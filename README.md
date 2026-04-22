@@ -42,3 +42,12 @@ I configured a Linux-based virtual machine, installed and configured Apache, and
 
 🌐 Outcome
 Successfully deployed a live website accessible via public IP address using an EC2 instance.
+
+📷 Screenshots
+
+EC2 Instance
+<img width="1920" height="1128" alt="Screenshot 2026-04-22 141909" src="https://github.com/user-attachments/assets/170acbee-d33e-461c-bec6-f1780e30029b" />
+
+Website
+<img width="1920" height="1128" alt="Screenshot 2026-04-22 141854" src="https://github.com/user-attachments/assets/e9a0cc77-d10e-4960-b58f-a378c468cac6" />
+
