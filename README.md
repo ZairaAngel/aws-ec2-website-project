@@ -46,7 +46,8 @@ Successfully deployed a live website accessible via public IP address using an E
 📷 Screenshots
 
 EC2 Instance
-<img width="1920" height="1128" alt="Screenshot 2026-04-22 141909" src="https://github.com/user-attachments/assets/170acbee-d33e-461c-bec6-f1780e30029b" />
+<img width="1920" height="1128" alt="Screenshot 2026-04-22 141909" src="https://github.com/user-attachments/assets/d3efe3e6-cb37-472e-a89e-e16350bdf301" />
+
 
 Website
 <img width="1920" height="1128" alt="Screenshot 2026-04-22 141854" src="https://github.com/user-attachments/assets/e9a0cc77-d10e-4960-b58f-a378c468cac6" />
