@@ -14,7 +14,7 @@ I configured a Linux-based virtual machine, installed and configured Apache, and
 - HTML/CSS
 
 🎯 Project Goals
-- - Launch a cloud-based virtual server (EC2)
+- Launch a cloud-based virtual server (EC2)
 - Securely connect via SSH
 - Install and configure a web server (Apache)
 - Deploy a custom HTML webpage
